@@ -1,0 +1,1 @@
+Neste projeto criei uma webpage onde você sobe um PDF, digita um documento, escolhe uma cor e define um lado do PDF (baixo esquerda, baixo direita, alto esquerda, alto direita), e ela devolve essa mesmo PDF com o documento impresso na cor desejada no lado definido do PDF.
